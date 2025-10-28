@@ -463,3 +463,16 @@ ASCII字符	ASCII characters
 所有字符	All characters
 指定字符	Specify characters
 自定义高度	Custom Height
+下次再提醒	Remind me next time
+手动打开下载页面	Manually open the download page
+自动下载最新程序	Automatically download the latest programs
+如果自动下载速度过慢或者出现下载异常，请选择手动打开下载页面	If the automatic download speed is too slow or there is a download anomaly, please choose to manually open the download page
+当前软件版本:	Current software version:
+官方发布最新版本:	Officially released the latest version:
+请选择下载方式:	Please select the download method:
+(立即更新)	(Update Now)
+Update	Update
+0%	0%
+progressBarX1	progressBarX1
+select update	select update
+当前版本不再提醒	The current version no longer reminds
