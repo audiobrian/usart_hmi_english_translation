@@ -1,0 +1,465 @@
+指令集	Instruction Set
+资料中心	Resource Center
+按下事件	Press Event
+弹起事件	Release Event
+滑动事件	Slide Event
+定时事件	Timer Event
+页面离开事件	Page Leave Event
+播放完成事件	Playback Complete Event
+长按事件	Long Press Event
+编辑区重绘事件	Editor Redraw Event
+前初始化事件	Pre-Init Event
+后初始化事件	Post-Init Event
+曲线/波形	Curve/Waveform
+滑块	Slider
+动画	Animation
+视频	Video
+音频	Audio
+触摸捕捉	Touch Capture
+定时器	Timer
+变量	Variable
+双态按钮	Toggle Button
+数字	Number
+滚动文本	Scrolling Text
+复选框	Checkbox
+单选框	Radio Button
+二维码	QR Code
+虚拟浮点数	Virtual Float
+外部图片	External Image
+下拉框	Dropdown
+滑动文本	Sliding Text
+文件流	File Stream
+文件遍历	File Traversal
+文件浏览器	File Browser
+数据记录	Data Record
+状态开关	State Switch
+选择文本	Select Text
+Printer3D	Printer3D
+ColPic	ColPic
+按钮	Buttons
+进度条	Progress bar
+触摸热区	Touch hotspots
+(78/79)触摸代码上传	Touch code upload
+图片	Image
+切图	Cut
+文本	Text
+页面	Page
+指针	Pointer
+ASCII文本录入_VP	Text Entry_VP
+变量数据录入_VP	Variable Data Entry_VP
+艺术字_VP	Word Art_VP
+文本_VP	Text_VP
+数据变量_VP	Data Variable_VP
+进度条_VP	Progress Bar_VP
+图片_VP	Image_VP
+按钮_VP	Button_VP
+二维码_VP	QR Code_VP
+基础触控_VP	Basic Touch_VP
+弹出菜单_VP	Pop-up Menu_VP
+图标轮播_VP	Icon Carousel_VP
+曲线_VP	Curve_VP
+JPEG_VP	JPEG_VP
+Dra_VP	Dra_VP
+未知控件	Unknown control
+宋体	Songti
+logon	logon
+label1	label1
+正在检测版本更新...	Checking for version updates...
+剪切	Cut
+复制	Copy
+粘贴	Paste
+删除	Delete
+添加	Add
+删除	Delete
+插入	Insert
+替换	Replace
+导出	Export
+全删	Delete All
+名称设置	Name Settings
+压缩质量设置	Compression Quality Settings
+允许透明像素	Allow Transparent Pixels
+不允许透明像素	Disallow Transparent Pixels
+全部选中	Select All
+音频压缩	Audio Compression
+添加	Add
+删除	Delete
+插入	Insert
+替换	Replace
+导出	Export
+全删	Delete All
+名称设置	Name Settings
+压缩质量设置	Compression Quality Settings
+允许透明像素	Allow Transparent Pixels
+不允许透明像素	Disallow Transparent Pixels
+全部选中	Select All
+音频压缩	Audio Compression
+复制(Ctrl+C)	Copy (Ctrl+C)
+粘贴(Ctrl+V)	Paste (Ctrl+V)
+原地粘贴(Ctrl+Shift+V)	Paste in Place (Ctrl+Shift+V)
+剪切(Ctrl+X)	Cut (Ctrl+X)
+删除	Delete
+锁定	Lock
+解锁	Unlock
+创建组合	Create Group
+取消组合	Ungroup
+导出组合	Export Group
+导入组合	Import Group
+新建	New
+删除	Delete
+插入	Insert
+上移	Move Up
+下移	Move Down
+复制	Copy
+重命名	Rename
+导入页面	Import Page
+导出页面	Export Page
+重置系统页面	Reset System Page
+锁定	Lock
+解锁	Unlock
+全删	Delete All
+界面	interface
+最近打开项目	Recently opened projects
+关于	about
+输出	output
+事件	event
+发送键值	Send key-value
+(后初始化事件在所有控件刷新显示之后执行)	The post-initialization event is executed after all controls are refreshed.
+工具箱	Toolbox
+字库	Fonts
+当前系列不支持此资源!	The current series does not support this resource!
+属性	property
+值	value
+方法	method
+导入/导出页面	Import/Export Page
+文件	document
+输出生产文件	Output production files
+导出控件名称宏定义	Export control name macro definition
+打开	Open
+保存	keep
+另存为	Save As
+版本备份目录	Version backup directory
+虚拟eeprom文件夹	Virtual eeprom folder
+虚拟SD卡文件夹	Virtual SD card folder
+导入工程	Import Project
+关闭工程	Close Project
+退出	quit
+工具	tool
+字库制作	Font production
+动画制作(GmovMaker)	Animation Production (GmovMaker)
+视频/音频转换(VideoBox)	Video/Audio Conversion (VideoBox)
+图片转换(PictureBox)	Image conversion (PictureBox)
+设置	set up
+软件设置	Software Setup
+重置窗口布局	Reset window layout
+帮助	help
+检测版本更新	Detect version updates
+最新信息	Latest Information
+编译	Compile
+调试	debug
+下载	download
+撤销	Revocation
+恢复	recover
+设备	equipment
+置顶层	Top
+左对齐	Left Align
+右对齐	Right Align
+上对齐	Top
+下对齐	Bottom Align
+使宽度相同	Make the width the same
+使高度相同	Make the height the same
+使大小相同	Make them the same size
+使水平间距相同	Make horizontal spacing the same
+增加水平间距	Increase horizontal spacing
+减少水平间距	Reduce horizontal spacing
+使垂直间距相同	Make vertical spacing the same
+增加垂直间距	Increase vertical spacing
+减少垂直间距	Reduce vertical spacing
+版本：	Version: 
+打开工程	Open the project
+打开所在文件夹	Open the folder
+删除当前记录	Delete the current record
+删除失效记录	Deleting Expired Records
+删除所有记录	Delete all records
+历史记录最大数量设置	Setting the maximum number of history records
+就绪	Ready
+(已是最新版本)	(Already the latest version)
+系统	system
+恢复默认路径	Restore the default path
+设置自定义路径	Setting a custom path
+透明颜色替换(透明色被禁用时)：	Transparent color replacement (when transparent color is disabled): 
+窗口字体: 	Window font: 
+恢复默认路径	Restore the default path
+设置自定义路径	Setting a custom path
+页面编辑区控件拖出显示区域延时限制	Delay limit for dragging controls in the page editing area out of the display area
+调试页面串口数据超时截断时间(推荐100ms):	Debug page serial data timeout truncation time (recommended 100ms):
+调试页面代码高亮	Debug page code highlighting
+编辑页面代码高亮	Edit page code highlighting
+鼠标悬停提示	Mouse hover tips
+指令参数提示	Command parameter prompt
+键盘输入关键字提示	Keyboard input keyword prompts
+调试页面代码区提示总开关	Debug page code area prompt main switch
+点击属性显示相应注释	Click on a property to display the corresponding annotation
+置底层	Bottom layer
+控件ID	Control ID
+控件名称	Control Name
+内存占用(私有占用只能在当前页面被访问,全局占用可以在所有页面被访问):0-私有;1-全局	Memory usage (private usage can only be accessed on the current page, global usage can be accessed on all pages): 0-private; 1-global
+是否支持拖动:0-否;1-是	Whether dragging is supported: 0-no; 1-yes
+不透明度(0-127)	Opacity (0-127)
+X坐标	X coordinate
+Y坐标	Y coordinate
+宽度	width
+高度	high
+加载特效:0-立即加载;1-上边飞入;2-下边飞入;3-左边飞入;4-右边飞入;5-左上角飞入;6-右上角飞入;7-左下角飞入;8-右下角飞入;9-淡入渐变;10-中间放大	Loading effects: 0-load immediately; 1-fly in from the top; 2-fly in from the bottom; 3-fly in from the left; 4-fly in from the right; 5-fly in from the top left; 6-fly in from the top right; 7-fly in from the bottom left; 8-fly in from the bottom right; 9-fade in gradually; 10-zoom in from the middle
+特效优先级(优先级越大越先执行，最大100)	Special effect priority (the higher the priority, the earlier it is executed, the maximum is 100)
+特效时间(最小150ms,最大65535ms)	Special effect time (minimum 150ms, maximum 65535ms)
+上滑翻页页面ID(255为无滑动翻页)	Page ID for swiping up to turn the page (255 means no swiping to turn the page)
+下滑翻页页面ID(255为无滑动翻页)	Page ID for sliding down to turn the page (255 means no sliding to turn the page)
+左滑翻页页面ID(255为无滑动翻页)	Left swipe to turn the page ID (255 means no swipe to turn the page)
+右滑翻页页面ID(255为无滑动翻页)	Right swipe to turn the page ID (255 means no swipe to turn the page)
+背景填充方式:0-无背景;1-单色;2-图片	Background fill mode: 0-no background; 1-single color; 2-image
+背景色	Background color
+背景图片(必须是全屏图片)	Background image (must be full screen image)
+全键盘	Full keyboard
+数字键盘	Numeric keypad
+九宫格键盘	Nine-grid keyboard
+拼音输入法	Pinyin input method
+(前初始化事件在所有控件刷新显示之前执行)	(The pre-initialization event is executed before all controls are refreshed and displayed)
+点击属性显示相应注释	Click on a property to display the corresponding annotation
+置底层	Bottom layer
+加载特效:0-立即加载;1-上边飞入;2-下边飞入;3-左边飞入;4-右边飞入;5-左上角飞入;6-右上角飞入;7-左下角飞入;8-右下角飞入	Loading effects: 0-load immediately; 1-fly in from the top; 2-fly in from the bottom; 3-fly in from the left; 4-fly in from the right; 5-fly in from the upper left corner; 6-fly in from the upper right corner; 7-fly in from the lower left corner; 8-fly in from the lower right corner
+背景填充方式:0-切图;1-单色;2-图片	Background fill mode: 0-cut image; 1-single color; 2-image
+显示风格:0-平面;1-边框;2-3D_Down;3-3D_Up	Display style: 0-Flat; 1-Border; 2-3D_Down; 3-3D_Up
+绑定键盘	Bind keyboard
+边框颜色	Border color
+边框粗细,最大值:255	Border thickness, maximum value: 255
+背景切图图片(必须是全屏图片)	Background cutout image (must be full screen image)
+背景图片	Background Image
+字体色	Font color
+水平对齐:0-靠左;1-居中;2-靠右	Horizontal alignment: 0-left; 1-center; 2-right
+垂直对齐:0-靠上;1-居中;2-靠下	Vertical alignment: 0-top; 1-center; 2-bottom
+初始值(最小-2147483648,最大2147483647)	Initial value (minimum -2147483648, maximum 2147483647)
+整数位数(0为自动,最大10位)	Integer digits (0 for automatic, maximum 10 digits)
+小数位数(0为无小数,最大8位)	Number of decimal places (0 means no decimal, maximum 8 digits)
+是否自动换行:0-否;1-是	Whether to automatically wrap: 0-no; 1-yes
+字符横向间距(最小0,最大255)	Character horizontal spacing (minimum 0, maximum 255)
+字符纵向间距(最小0,最大255)	Character vertical spacing (minimum 0, maximum 255)
+背景填充方式:0-切图;1-单色;2-图片	Background fill mode: 0-cut image; 1-single color; 2-image
+显示风格:0-平面;1-边框;2-3D_Down;3-3D_Up	Display style: 0-Flat; 1-Border; 2-3D_Down; 3-3D_Up
+HMI	HMI
+superTabControl1	superTabControl1
+itemPanel2	itemPanel2
+USART HMI	USART HMI
+Check...	Check...
+Ver:0.35	Ver:0.35
+panelEx4	panelEx4
+button1	button1
+superTabControl2	superTabControl2
+TabItem0	TabItem0
+TabItem1	TabItem1
+TabItem2	TabItem2
+TabItem3	TabItem3
+TabItem4	TabItem4
+superTabItem5	superTabItem5
+superTabItem6	superTabItem6
+superTabItem7	superTabItem7
+bar6	bar6
+bar1	bar1
+buttonItem1	buttonItem1
+buttonItem2	buttonItem2
+buttonItem5	buttonItem5
+insert	insert
+buttonItem3	buttonItem3
+buttonItem4	buttonItem4
+buttonItem6	buttonItem6
+0	0
+type	type
+zhushi	zhushi
+attid	attid
+initval	initval
+load	load
+Encoding:	Encoding:
+|	|
+Model:	Model:
+	
+bar5	bar5
+help0	help0
+help1	help1
+Style	Style
+BLUE	BLUE
+BLACK	BLACK
+bar10	bar10
+Ctrl+C	Ctrl+C
+Ctrl+X	Ctrl+X
+Ctrl+V	Ctrl+V
+Ctrl+Shift+V	Ctrl+Shift+V
+lock components	lock components
+unlock components	unlock components
+bar12	bar12
+Del	Del
+Ctrl+Z	Ctrl+Z
+Ctrl+Y	Ctrl+Y
+bar13	bar13
+ID	ID
+100%	100%
+bar11	bar11
+buttonItem43	buttonItem43
+buttonItem44	buttonItem44
+buttonItem23	buttonItem23
+buttonItem24	buttonItem24
+buttonItem25	buttonItem25
+buttonItem27	buttonItem27
+buttonItem28	buttonItem28
+buttonItem30	buttonItem30
+buttonItem36	buttonItem36
+sendke	sendke
+progform	progform
+Load data.....	Load data.....
+inch:	inch:
+TopMessage	TopMessage
+interface	interface
+Program.s	Program.s
+Recently opened projects	Recently opened projects
+(Already the latest version)	(Already the latest version)
+Version: 1.67.5	Version: 1.67.5
+about	about
+ 	 
+   	   
+about	about
+  inch:	  inch:
+切图图片(必须是全屏图片)	Cut-out image (must be full-screen image)
+切图偏移x	Cutting offset x
+切图偏移y	Cut image offset y
+是否显示为密码(内容仍为实际内容,仅仅显示出来为*):0-否;1-是	Whether to display as password (the content is still the actual content, just displayed as *): 0-No; 1-Yes
+字符内容	Character content
+字符最大长度(即分配内存空间)	Maximum character length (i.e. allocated memory space)
+无	none
+窗口字体:	Window font:
+ms	ms
+              	              
+              	              
+编辑页面代码区提示总开关	Edit page code area prompt main switch
+定时时间,单位:ms(最小50,最大65534)	Timing time, unit: ms (minimum 50, maximum 65534)
+使能开关:0为关闭,1为开启	Enable switch: 0 is off, 1 is on
+数据类型:0-数值;1-字符串	Data type: 0-numeric value; 1-string
+初始字符内容	Initial character content
+显示风格:0-平面;1-边框;2-3D_Down;3-3D_Up;4-3D_Auto	Display style: 0-Flat; 1-Border; 2-3D_Down; 3-3D_Up; 4-3D_Auto
+默认背景图片	Default background image
+默认切图背景(必须是全屏图片)	Default cut-out background (must be a full-screen image)
+默认背景色	Default background color
+按下背景图片	Press background image
+按下切图背景(必须是全屏图片)	Press the background image (must be a full-screen image)
+按下背景色	Press background color
+默认字体色	Default font color
+按下字体色	Press font color
+当前状态(0或1)	Current state (0 or 1)
+前景色	Foreground color
+中心LOGO:0-无;1-有	Center LOGO: 0-no; 1-yes
+内容边距	Content margins
+字符最大长度(即分配内存空间:0-192)	Maximum character length (i.e. allocated memory space: 0-192)
+当前所选硬件系列不支持此控件	The currently selected hardware family does not support this control
+MessageForm	MessageForm
+checkBox2	checkBox2
+取消	Cancel
+X	X
+否	no
+是	yes
+textmessage	textmessage
+确定	Sure
+填充方式:0-单色;1-图片	Fill mode: 0-single color; 1-image
+进度方式:0-横向;1-竖向	Progress mode: 0-horizontal; 1-vertical
+进度值	Progress value
+外形圆角半径百分比(0-100,0为直角)	Corner radius percentage (0-100, 0 is a right angle)
+前景图片	Foreground image
+显示位数(0为自动,最大15位)	Display digits (0 for automatic, maximum 15 digits)
+格式化类型:0-数字;1-货币;2-Hex	Format type: 0-Number; 1-Currency; 2-Hex
+滚动方向:0-从左往右;1-从右往左;2-从上往下;3-从下往上	Scroll direction: 0-left to right; 1-right to left; 2-top to bottom; 3-bottom to top
+滚动幅度像素值(最小2,最大50)	Scrolling amplitude pixel value (minimum 2, maximum 50)
+滚动周期(单位ms,最小80,最大65534)	Scroll period (unit: ms, minimum: 80, maximum: 65534)
+滚动使能:0为关闭,1为开启	Scroll enable: 0 is off, 1 is on
+,move-x	,move-x
+move-y	move-y
+this w	this w
+this h	this h
+平推方向:0-从左往右;1-从右往左;2-靠右对齐	Push direction: 0-from left to right; 1-from right to left; 2-aligned to the right
+通道数量(最小1,最大4):1-1;2-2;3-3;4-4	Number of channels (minimum 1, maximum 4): 1-1; 2-2; 3-3; 4-4
+~sta=1	~sta=1
+网格颜色	Grid Color
+网格宽度,0为无网格	Grid width, 0 means no grid
+网格高度,0为无网格	Grid height, 0 means no grid
+通道0前景色	Channel 0 foreground color
+通道1前景色	Channel 1 foreground color
+通道2前景色	Channel 2 foreground color
+通道3前景色	Channel 3 foreground color
+数据缩放百分比(最小10,最大1000)	Data scaling percentage (minimum 10, maximum 1000)
+滑行方向:0-横向;1-竖向	Sliding direction: 0-horizontal; 1-vertical
+游标填充方式:0-单色;1-图片	Cursor fill mode: 0-single color; 1-image
+游标宽度(255为自动，0为无游标)	Cursor width (255 for automatic, 0 for no cursor)
+游标高度(255为自动，0为无游标)	Cursor height (255 for automatic, 0 for no cursor)
+前景切图图片(必须是全屏图片)	Foreground cutout image (must be full-screen image)
+游标图片	Cursor Image
+游标颜色	Cursor color
+~psta!1	~psta!1
+最大值(0-65535)	Maximum value (0-65535)
+最小值(0-65535)	Minimum value (0-65535)
+背景宽度百分比(0-100,0为无需填充背景)	Background width percentage (0-100, 0 means no background filling)
+OK	OK
+Cancel	Cancel
+Form1	Form1
+PictureBox V1.1	PictureBox V1.1
+?	?
+清空	Clear
+开始转换	Start Conversion
+屏幕显示方向：	Screen display direction: 
+压缩质量：	Compression quality: 
+精细	fine
+极高	Very high
+高	high
+中	middle
+低	Low
+极低	Very low
+50	50
+本次捕捉控件ID	This capture control ID
+背景切图(必须是全屏图片)	Background cutout (must be full screen image)
+当前值	Current value
+补偿值	Compensation value
+尖长(允许负数)	Tip length (negative numbers allowed)
+尾长(允许负数)	Tail length (negative numbers allowed)
+中心偏移	Center Offset
+指针颜色	Pointer color
+中心圆颜色	Center circle color
+中心圆直径,最大值:100(0为无中心圆)	Center circle diameter, maximum value: 100 (0 means no center circle)
+指针粗细,最大值:20	Pointer thickness, maximum value: 20
+尖宽,最大值:128	Tip width, maximum value: 128
+腰宽,最大值:128	Waist width, maximum value: 128
+尾宽,最大值:128	Tail width, maximum value: 128
+GmovMaker V 1.0	GmovMaker V 1.0
+生成动画	Generate Animation
+Frames:0 Time:0 S	Frames:0 Time:0 S
+Fd.(ms):	Fd.(ms):
+toolStrip1	toolStrip1
+添加图片	Add a picture
+插入图片	Insert a picture
+延时时间设置(ms)	Delay time setting (ms)
+字库制作工具	Font creation tool
+所有语言	All languages
+字体抗锯齿	Font antialiasing
+字体:	Font:
+生成字库	Generate font library
+字库名称:	Font Name:
+范围:	scope:
+预览区	Preview Area
+font path	font path
+str:	str:
+ref	ref
+fsize:	fsize:
+bmw:	bmw:
+↓	↓
+↑	↑
+编码:	coding:
+label3	label3
+字高:	Font height:
+字体加粗	Bold font
+ASCII字符	ASCII characters
+所有字符	All characters
+指定字符	Specify characters
+自定义高度	Custom Height
